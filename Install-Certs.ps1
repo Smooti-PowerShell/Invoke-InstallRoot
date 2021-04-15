@@ -5,7 +5,7 @@
             Version:        1.0
             Author:         Robert Owens
             Creation Date:  01/05/2021
-    #>
+#>
     
 Set-Location "C:\Program Files\DoD-PKE\InstallRoot"
 
